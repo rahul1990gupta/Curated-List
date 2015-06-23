@@ -4,7 +4,7 @@ Essential (DFS)
 * How to start a startup by Sam Altman
 * http://theleanstartup.com/casestudies
 
-===========Bonus Reading========
+## Bonus Reading
 
 Books:
 * Lean Startup by Eric Ries [10]
